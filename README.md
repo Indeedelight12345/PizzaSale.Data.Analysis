@@ -249,7 +249,7 @@ order by total_revenue desc
 - Load data into Power BI Desktop, dataset is a csv file.
 - Open power query editor & in view tab under Data preview section, check "column distribution", "column quality" & "column profile" options.
 - Also since by default, profile will be opened only for 1000 rows so you need to select "column profiling based on entire dataset".
-- It was observed that in none of the columns errors & empty values were prsented
+- It was observed that in none of the columns errors & empty values were presented
 - in the report view a canvans backgroud is imported into the report view.
 - creating of date table
 - Data modeling with  sales data table
@@ -260,7 +260,7 @@ order by total_revenue desc
 
 
 ### Result/Findings
-The analysis resut are summarize as folllows:
+The analysis result are summarize as folllows:
 - The pizza  sales have being incresing over the past years  with a noticeable peak during the weekend.
 - pizza category classic have the higgest sales
 -  pizza size(l) have the higest sales while pizza size(xxl) make minimum sales
