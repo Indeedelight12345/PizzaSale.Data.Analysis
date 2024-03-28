@@ -275,7 +275,8 @@ Base on the analysis we recommend the follwing actions:
 
 ## Image
 
-![image](https://github.com/bala-1409/Power-BI-Visualization-Project/assets/136687053/707e532c-b15d-4e7f-8baf-902dace5f005)
+![image](![Screenshot (105) pngruk](https://github.com/Indeedelight12345/Sales_analysis/assets/159934989/95285eeb-6ea5-493e-96d5-808c2eec3abe)
+)
 
 
 
