@@ -6,7 +6,7 @@ by analyzing various aspect of the company sales data , we seek to identify tren
 
 
 ### Data Source
-Sales Data: The primary dataset used or this analysis is the 'sales_data_csv' which contain vital information about the compant sales .
+Sales Data: The primary dataset used or this analysis is the 'sales_data_csv' which contain vital information about the company sales .
 
 ### Tools 
 - Excel- Data Cleaning 
