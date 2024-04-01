@@ -1,4 +1,4 @@
-# Pizza sales analysis
+# Pizza sales python data analysis
 
 ### Project review 
 - This  data analysis project aim to provide insight into sales performance  of a sales company over the pass years
