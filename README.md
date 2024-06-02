@@ -197,7 +197,7 @@ group by pizza_name
 order by quantity desc  limit 5;
   ``` 
 
-- Pizza name with the higest sales
+- Pizza name with the highest sale from mysql analysis
 ```mysql
 select cast( sum(total_price)as decimal(10,4))as total_revenue , pizza_name  from pizza_sales
 group by pizza_name
